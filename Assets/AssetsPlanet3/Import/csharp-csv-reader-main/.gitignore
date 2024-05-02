@@ -1,0 +1,10 @@
+bin
+obj
+*.suo
+*.nupkg
+*.user
+*project.lock.json
+.vs/
+packages/
+.idea
+testrunner/

@@ -1,0 +1,13 @@
+/.vs
+/.vscode
+.vs
+
+*.sln
+*.csproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.exp
+*.apk
+*.DS_Store
+*.cache

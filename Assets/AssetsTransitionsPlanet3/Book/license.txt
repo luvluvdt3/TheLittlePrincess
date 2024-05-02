@@ -1,0 +1,11 @@
+Model Information:
+* title:	Book
+* source:	https://sketchfab.com/3d-models/book-6acc8732df2c4b609e5d4ac52b364a24
+* author:	Snowism (https://sketchfab.com/snowvy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Book" (https://sketchfab.com/3d-models/book-6acc8732df2c4b609e5d4ac52b364a24) by Snowism (https://sketchfab.com/snowvy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

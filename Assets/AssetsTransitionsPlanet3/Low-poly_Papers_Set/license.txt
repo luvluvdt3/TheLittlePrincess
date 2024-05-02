@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly Papers Set
+* source:	https://sketchfab.com/3d-models/low-poly-papers-set-2edf57ce2e6c4475bd4897b9c91b0a77
+* author:	Marim_Studio (https://sketchfab.com/marim_studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly Papers Set" (https://sketchfab.com/3d-models/low-poly-papers-set-2edf57ce2e6c4475bd4897b9c91b0a77) by Marim_Studio (https://sketchfab.com/marim_studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

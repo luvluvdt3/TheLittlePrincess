@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scifi Table v1 (Matte)
+* source:	https://sketchfab.com/3d-models/scifi-table-v1-matte-7ad9d999a34a4958b9b3d371eb7205f2
+* author:	Rohit3DAsset (https://sketchfab.com/Rohit3Dasset)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scifi Table v1 (Matte)" (https://sketchfab.com/3d-models/scifi-table-v1-matte-7ad9d999a34a4958b9b3d371eb7205f2) by Rohit3DAsset (https://sketchfab.com/Rohit3Dasset) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

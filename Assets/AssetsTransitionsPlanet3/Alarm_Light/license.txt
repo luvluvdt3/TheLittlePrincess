@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alarm Light
+* source:	https://sketchfab.com/3d-models/alarm-light-0e009c47066d4ab4b4329fdd4820f141
+* author:	5CNG5 (https://sketchfab.com/5CNG5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alarm Light" (https://sketchfab.com/3d-models/alarm-light-0e009c47066d4ab4b4329fdd4820f141) by 5CNG5 (https://sketchfab.com/5CNG5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

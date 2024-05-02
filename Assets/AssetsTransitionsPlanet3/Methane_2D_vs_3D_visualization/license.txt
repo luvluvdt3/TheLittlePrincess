@@ -1,0 +1,11 @@
+Model Information:
+* title:	Methane 2D vs 3D visualization
+* source:	https://sketchfab.com/3d-models/methane-2d-vs-3d-visualization-69e40936db064fe9a0ad0385601daa84
+* author:	Vera4art (https://sketchfab.com/Elvera.Viljoen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Methane 2D vs 3D visualization" (https://sketchfab.com/3d-models/methane-2d-vs-3d-visualization-69e40936db064fe9a0ad0385601daa84) by Vera4art (https://sketchfab.com/Elvera.Viljoen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
