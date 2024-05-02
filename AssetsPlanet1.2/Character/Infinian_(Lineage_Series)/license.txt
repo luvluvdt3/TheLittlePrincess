@@ -1,0 +1,11 @@
+Model Information:
+* title:	Infinian (Lineage Series)
+* source:	https://sketchfab.com/3d-models/infinian-lineage-series-1279221a3196400d92a078319a5b3f40
+* author:	Doctor A. (https://sketchfab.com/doctorA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Infinian (Lineage Series)" (https://sketchfab.com/3d-models/infinian-lineage-series-1279221a3196400d92a078319a5b3f40) by Doctor A. (https://sketchfab.com/doctorA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

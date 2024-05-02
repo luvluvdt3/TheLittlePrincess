@@ -1,0 +1,8 @@
+Model Information:
+* title:	ocean2
+* source:	https://sketchfab.com/3d-models/ocean2-108076a3762944b88c7e47f9289b388d
+* author:	Bumface (https://sketchfab.com/Bumface)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
