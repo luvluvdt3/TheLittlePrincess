@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized fire tornado
+* source:	https://sketchfab.com/3d-models/stylized-fire-tornado-fe6bd0b87eca4c73bef78b0c6d874169
+* author:	NinKorr3D (https://sketchfab.com/NinKorr3D)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized fire tornado" (https://sketchfab.com/3d-models/stylized-fire-tornado-fe6bd0b87eca4c73bef78b0c6d874169) by NinKorr3D (https://sketchfab.com/NinKorr3D) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

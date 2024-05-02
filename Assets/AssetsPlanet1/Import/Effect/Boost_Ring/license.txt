@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boost Ring
+* source:	https://sketchfab.com/3d-models/boost-ring-65791b708f5d45dab22fb6be46255854
+* author:	Jakob Henerey (https://sketchfab.com/hellonintendo8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boost Ring" (https://sketchfab.com/3d-models/boost-ring-65791b708f5d45dab22fb6be46255854) by Jakob Henerey (https://sketchfab.com/hellonintendo8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

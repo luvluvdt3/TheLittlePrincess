@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elemental Symbols (WIP)
+* source:	https://sketchfab.com/3d-models/elemental-symbols-wip-37e9306a76c543859d54475d8af1fe5c
+* author:	Austin Hicks (https://sketchfab.com/AustinHicks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elemental Symbols (WIP)" (https://sketchfab.com/3d-models/elemental-symbols-wip-37e9306a76c543859d54475d8af1fe5c) by Austin Hicks (https://sketchfab.com/AustinHicks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

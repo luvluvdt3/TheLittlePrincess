@@ -1,0 +1,11 @@
+Model Information:
+* title:	TerrorBird
+* source:	https://sketchfab.com/3d-models/terrorbird-41ce87a9f3a3498da1141b7645e0e4fb
+* author:	AYM STUDIO (https://sketchfab.com/nolan97354)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TerrorBird" (https://sketchfab.com/3d-models/terrorbird-41ce87a9f3a3498da1141b7645e0e4fb) by AYM STUDIO (https://sketchfab.com/nolan97354) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	BOX-02 Robot
+* source:	https://sketchfab.com/3d-models/box-02-robot-70795967b57e416ea8ca184af6005e21
+* author:	Phuc Pham (https://sketchfab.com/phucpham1076)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BOX-02 Robot" (https://sketchfab.com/3d-models/box-02-robot-70795967b57e416ea8ca184af6005e21) by Phuc Pham (https://sketchfab.com/phucpham1076) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

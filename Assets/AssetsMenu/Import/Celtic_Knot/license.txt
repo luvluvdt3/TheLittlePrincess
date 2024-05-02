@@ -1,0 +1,11 @@
+Model Information:
+* title:	Celtic Knot
+* source:	https://sketchfab.com/3d-models/celtic-knot-d63e93a560314b00aa9f90aea7e0d51a
+* author:	Microsoft (https://sketchfab.com/microsoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Celtic Knot" (https://sketchfab.com/3d-models/celtic-knot-d63e93a560314b00aa9f90aea7e0d51a) by Microsoft (https://sketchfab.com/microsoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

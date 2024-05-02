@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glowing Mushroom
+* source:	https://sketchfab.com/3d-models/glowing-mushroom-4d69b432b067413d9d7bac74f02155c0
+* author:	Jakob_Forseth (https://sketchfab.com/Jakob_Forseth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glowing Mushroom" (https://sketchfab.com/3d-models/glowing-mushroom-4d69b432b067413d9d7bac74f02155c0) by Jakob_Forseth (https://sketchfab.com/Jakob_Forseth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
