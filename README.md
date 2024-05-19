@@ -4,12 +4,6 @@ https://github.com/luvluvdt3/TheLittlePrincess/assets/77581509/3c0bbf85-fba6-462
 ## Unity version
 Unity version to run the project: ``2022.3.19f1``. At the beginning of the course we were told that the version of Unity does not matter as long as all our team members are using the same. Because one of our team members has been running Unity on Linux we were based on what version he has.
 
-## 💻 Download link
-[Download Link](https://unice-my.sharepoint.com/:f:/g/personal/thi-thanh-tu_duong_etu_unice_fr/EmiQF3KPhnxOhHb5YcVa6fMBjvNq4zBjLD0lzIThnMXazA?e=9WFeYT)
-
-## 🎥 Demo
-[Demo Video](https://unice-my.sharepoint.com/:v:/g/personal/thi-thanh-tu_duong_etu_unice_fr/EVt_IWsVXg9FhcmF5SNe_SQBu6jliRz7gy7b7mYDSs4CTA?e=kR6j67&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 ## 💡 How to use
 - Go to *Build* folder
 - Launch TheLittlePrincess.exe
