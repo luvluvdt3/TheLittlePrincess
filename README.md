@@ -1,6 +1,7 @@
 # The Little Princess 
 https://github.com/luvluvdt3/TheLittlePrincess/assets/77581509/3c0bbf85-fba6-462f-9641-74c253924e1c
 
+For a complete walk-through of the application in higher quality, check out the demo video here: https://www.youtube.com/watch?v=9FWejnsImq0&t
 ## Unity version
 Unity version to run the project: ``2022.3.19f1``. At the beginning of the course we were told that the version of Unity does not matter as long as all our team members are using the same. Because one of our team members has been running Unity on Linux we were based on what version he has.
 
